@@ -18,9 +18,11 @@ public class App
         Car mycar= new Car();
         mycar.beepbeep();
         mycar.volume();
+//
         Bus mybus = new Bus ();
         mybus.loadCapacity();
         mybus.numberOfSeats();
+//
         AirPlane myplane = new AirPlane();
         myplane.fly();
         myplane.takeOffSpeed();
